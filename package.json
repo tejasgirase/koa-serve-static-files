@@ -1,0 +1,20 @@
+{
+  "name": "update-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "koa": "^2.13.0",
+    "koa-mount": "^4.0.0",
+    "koa-send": "^5.0.1"
+  }
+}
